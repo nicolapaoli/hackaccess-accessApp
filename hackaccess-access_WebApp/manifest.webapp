@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "Hackaccess - Access",
+  "launch_path": "/index.html",
+  "description": "Web App showing the activities of the app Access. An HackAccess Dublin 2017 hackathon project.",
+  "developer": {
+    "name": "Nicola Paoli",
+    "url": "https://hackaccess-access.firebaseapp.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Hackaccess - Access",
+      "description": "Web App showing the activities of the app Access. An Hackaccess-Dublin project."
+    },
+    "it": {
+      "name": "Hackaccess - Access",
+      "description": "Web App che mostra le attività dell'app Access. Un progetto per l'hackathon HackAccess Dublin 2017."
+    }
+  }
+}

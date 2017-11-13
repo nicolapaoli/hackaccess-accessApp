@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343879480073",
+    "firebase_url": "https://hackaccess-access.firebaseio.com",
+    "project_id": "hackaccess-access",
+    "storage_bucket": "hackaccess-access.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343879480073:android:4d299160872a908b",
+        "android_client_info": {
+          "package_name": "ie.hackaccess.access.accessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343879480073-2fte4hb7nmp4iajfis286g56a31asc8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.hackaccess.access.accessapp",
+            "certificate_hash": "48ee62c876db4b7a981d8bbcfee63e299854b07e"
+          }
+        },
+        {
+          "client_id": "343879480073-612g01liuju4js0eic9aaqb84eum6t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVyBclxxYT5P733v-gT7ZBRP5yKJ9YVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343879480073-612g01liuju4js0eic9aaqb84eum6t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
